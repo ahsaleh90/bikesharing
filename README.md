@@ -4,6 +4,8 @@
 ### Overview
 The purpose for this analysis is to highlight trends and key metric in citi bike trip in the citi of New york. The findings will help convince investors that a bike-sharing program in Des Moines is a solid business.
 
+### Story Analysis
+
 ![](https://github.com/ahsaleh90/bikesharing/blob/main/images/Checkout%20Times%20for%20Users.png)
 The graph shows the highest checkout times for users was at 5 minutes.
 ![](https://github.com/ahsaleh90/bikesharing/blob/main/images/Checkout%20Times%20by%20Gender.png)
